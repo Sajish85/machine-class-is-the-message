@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Krishnan"
+    given-names: "Sajish"
+    orcid: "https://orcid.org/0009-0009-7561-9290"
+    affiliation: "Independent researcher"
+title: "Machine Class Is the Message"
+date-released: 2026-11-16
+year: 2026
+doi: "10.5281/zenodo.24301880"
+url: "https://github.com/Sajish85/machine-class-is-the-message"
+license: CC-BY-4.0

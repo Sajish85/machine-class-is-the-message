@@ -39,3 +39,17 @@ All random splits use seed 42. The committed `*_results.json` files are the outp
 ## Citation
 
 If you use this analysis, please cite the paper (arXiv link added on posting) and the underlying dataset: KANVAS project, `kanvas-gpu-failure`, Hugging Face, CC-BY-4.0; and Weng et al., NSDI 2022 for the source trace.
+
+## How to cite
+
+```bibtex
+@misc{krishnan2026machineclass,
+  author       = {Krishnan, Sajish},
+  title        = {Machine Class Is the Message},
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24301880},
+  url          = {https://github.com/Sajish85/machine-class-is-the-message},
+  note         = {ORCID: 0009-0009-7561-9290. Licence: CC BY 4.0}
+}
+```
